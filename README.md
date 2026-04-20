@@ -1,76 +1,74 @@
 # 👩‍⚕️ Dr. Samjhana Subedi
 
-✨ *This is my special GitHub profile repository* ✨  
+<p align="center">
+  <i>MBBS Doctor | Digital Health Enthusiast | Lifelong Learner</i>
+</p>
 
-Welcome to **@drsamjna** — the official GitHub profile of **Dr. Samjhana Subedi**, an MBBS doctor from Nepal.  
-
-This README appears directly on my GitHub profile and reflects my professional identity, values, and long-term vision as a doctor in the digital space.
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Nepal🇳🇵-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/Profession-Medical%20Doctor-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Public%20Health-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Ethics-Evidence--Based-important?style=flat-square" />
+</p>
 
 ---
 
 ## 🩺 About Me
 
-- **Name:** Dr. Samjhana Subedi  
-- **Qualification:** MBBS  
-- **Profession:** Medical Doctor  
-- **Location:** Nepal 🇳🇵  
+Hello! I'm **Dr. Samjhana Subedi**, an MBBS doctor from Nepal.  
 
-I believe medicine is not limited to clinics and hospitals — it also belongs in education, communication, and community awareness.
+I believe that **medicine goes beyond hospitals** — it belongs in education, communication, and community awareness.  
+This GitHub space represents my journey toward combining **medical science with digital innovation**.
 
 ---
 
-## 🌱 What I Stand For
+## 🌱 Core Principles
 
-- Evidence-based medicine  
-- Compassionate patient care  
-- Ethical medical practice  
-- Lifelong learning  
-- Community health education  
-
----
-
-## 🔬 Professional Interests
-
-- Clinical medicine  
-- Preventive healthcare  
-- Public health awareness  
-- Medical education *(simplified & responsible)*  
-- Digital tools in healthcare  
+- 🧬 Evidence-based medicine  
+- 🤍 Compassionate patient care  
+- ⚖️ Ethical medical practice  
+- 📚 Lifelong learning  
+- 🌍 Community health awareness  
 
 ---
 
-## 🌍 Why GitHub?
+## 🔬 Areas of Interest
 
-This space is used to:
-
-- Build a credible digital footprint as a doctor  
-- Organize medical learning notes & academic work  
-- Develop a personal website *(future)*  
-- Document health-education projects  
-- Explore the intersection of medicine & technology  
+- 🏥 Clinical Medicine  
+- 🛡️ Preventive Healthcare  
+- 📢 Public Health Awareness  
+- 📖 Medical Education *(simplified & responsible)*  
+- 💻 Digital Health & Technology  
 
 ---
 
-## ⚠️ Disclaimer
+## 🌐 Why This GitHub?
 
-Content shared here is strictly for **educational and informational purposes only**.  
-It does **not** replace professional medical consultation.
+This space is where I:
 
----
-
-## 🚀 Future Plans
-
-- 🌐 Personal website & blog  
-- 📚 Structured medical notes  
-- 🧠 Public health education resources  
-- 🏥 Community-focused initiatives  
-- 📄 Academic & research documentation  
+- 🧾 Document medical notes & learning  
+- 🧠 Share health education content  
+- 🌍 Build a professional digital identity  
+- 🚀 Work toward a personal website  
+- 🔗 Explore medicine + technology  
 
 ---
 
-## 🤍 Core Values
+## 🚀 Future Roadmap
 
-> **“Where knowledge meets compassion.”**
+- 🌐 Personal Website & Blog  
+- 📚 Structured Medical Notes Repository  
+- 🧠 Public Health Resources  
+- 🏥 Community Health Initiatives  
+- 📄 Research & Academic Work  
+
+---
+
+## 🤍 Philosophy
+
+<p align="center">
+  <b>"Where knowledge meets compassion."</b>
+</p>
 
 - Integrity over influence  
 - Service before self  
@@ -79,24 +77,31 @@ It does **not** replace professional medical consultation.
 
 ---
 
-## 📬 Connect
+## ⚠️ Disclaimer
 
-Professional links will be added as platforms are finalized.
+> This content is for **educational purposes only** and does **not** replace professional medical advice or consultation.
 
 ---
 
-## 📖 Quote
+## 📖 Inspiration
 
 > *"Medicine is a science of uncertainty and an art of probability."*  
 > — William Osler  
 
 ---
 
-⭐ **Thank you for visiting my profile.**  
-— *Dr. Samjhana Subedi*
+## 📬 Connect
+
+<p align="center">
+  <i>Professional links will be added soon</i>
+</p>
 
 ---
 
-> 💡 *Tip:*  
-> `drsamjna/drsamjna` is a ✨special ✨ repository that allows you to display this `README.md` on your GitHub profile.  
-> Make sure the repository is **public** and initialized with a README to activate it.
+<p align="center">
+  ⭐ Thank you for visiting my profile
+</p>
+
+<p align="center">
+  — <b>Dr. Samjhana Subedi</b>
+</p>
